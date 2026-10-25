@@ -127,7 +127,7 @@ cap.release()
 ## Output
 
 ### i) Write the Frame as a JPG Image
-![Uploading Screenshot 2026-10-25 150219.png…]()
+<img width="763" height="612" alt="Screenshot 2026-10-25 150219" src="https://github.com/user-attachments/assets/f3667a0e-7f14-4fc3-9c99-0e0e8f4e6e40" />
 
 
 ### ii) Display the Video
